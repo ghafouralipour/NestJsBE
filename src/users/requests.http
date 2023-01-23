@@ -1,13 +1,3 @@
-### Project Writed By Ghafour Alipour
-
-# NestJsBE
-In this project I implemeted a backend with Typsescript language, NestJS Framework and sqllite as database.
-
-### Start The Project
-npm install
-npm start
-
-
 ### Create a new user
 POST http://localhost:3000/api/users
 content-type: application/json
@@ -31,4 +21,5 @@ GET http://localhost:3000/api/user/6/avatar
 
 ### Delete a user given id
 DELETE http://localhost:3000/api/user/6
+
 
